@@ -7,3 +7,4 @@ yes we can
 
 now we do in server base
 
+now we work in git clone method
